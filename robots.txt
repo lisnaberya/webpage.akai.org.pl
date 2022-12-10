@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /slot-5000/
+Disallow: /
+
+Sitemap: https://webpage.akai.org.pl/slot-5000/sitemap.xml
